@@ -11,6 +11,6 @@ if not user_number.isdigit():  # проверка на то, что введен
 
 summa = int(user_number) + int(user_number*2) + int(user_number*3)
 print(f"{user_number}+{user_number*2}+{user_number*3} = {summa} ")
-__________________
-Введите целое число >>> 5
-5+55+555 = 615
+# __________________
+# Введите целое число >>> 5
+# 5+55+555 = 615
